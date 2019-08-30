@@ -1,0 +1,17 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "node.js api test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Santana",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.9",
+    "multer": "^1.4.2"
+  }
+}
